@@ -10,5 +10,5 @@ class GeradorQrcode():
         self.img.save('Qrcode.png')
 
 
-gerador = GeradorQrcode("OI")
-gerar = gerador.gerar()
+# gerador = GeradorQrcode("OI")
+# gerar = gerador.gerar()
